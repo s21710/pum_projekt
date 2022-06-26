@@ -1,0 +1,330 @@
+Message;Team
+"ADDITIONAL COMMENTS - Hi Team
+For the employee ??????Ibrahim ???????Jamal (workday ID 101232509) DataHub is receiving the First Name prefixed with additional characters, the additional characters are not visible in Workday Legal or Preferred Name
+
+DataHub received the First name of employee is prefixed with ??????.
+
+Could you please review and advise?";HCM
+"ADDITIONAL COMMENTS - Hi Team,
+could you please exchange the existing Onboarding Checkist for Switzerland in the Review Documents for Onboarding Step? The new file attached.
+Best regards
+Olga";HCM
+"ADDITIONAL COMMENTS - Requesting EIB file (if any) for the deactivation of Matrix Organization
+Deactivate the matrix Organization: Career Coach - SDC-PHL (Kimberly Mae Velasco)
+Organization_Reference_ID: MATRIX_ORGANIZATION-3-189273";HCM
+"ADDITIONAL COMMENTS - Hi
+France needs to have the last version for the EIB to assign establishment. Can you give me it ? Thanks. Nathalie";HCM
+"ADDITIONAL COMMENTS - Good afternoon. We are currently going on a drive in our territory to ensure all our staff members update their basic personal profile details. Upon testing before sending out an official communication, we noticed the below : 
+
+Changing Marital Status : When trying to submit a change in marital status,  a red error appears saying 'change to marital status requires evidence'. Can we remove any requirements in relation to such documentation? 
+
+Mandatory Fields: Can you confirm if these fields are mandatory as they currently don't have a red mark indicating so ? 
+Personal information:
+- Date of birth
+- Marital status
+- Nationality
+Contact information:
+- Personal address
+- Primary phone (personal)";HCM
+"ADDITIONAL COMMENTS - HI Team,
+
+Please Inactivate the organization 1401622 as when we are deactivating the organization it is giving the error as task is pending but i can see no task is pending . Please help updating the EIB. Attached.
+
+Regards,
+
+Geetanshu";HCM
+"ADDITIONAL COMMENTS - I can leverage EIB to remove ONE period plan but I could not leverage EIB to remove TWO allowance Plans.  You may check the workers in Trial 1 file in Sandbox, their Period plan has been removed but the allowance plans are still there.  I tried select other workers to make second attempt (Trial 2 file) and the whole transfer become In Progress.
+Please advise how to complete Compensation tab to remove TWO allowance plans.";HCM
+"ADDITIONAL COMMENTS - Hi Team,
+Please help delete the following prehire records. Thank you.
+
+A0000510424
+A0000507876";HCM
+"ADDITIONAL COMMENTS - hi team
+Company ""Galaxy Belgium OpCo"" (e53a56fc-7c1b-49d2-a2c1-2219c6cc4922) is changing names to ""Vialto Partners Belgium bv""
+Can this be adapted in Workday?
+Does this have any impact on the reference ID and downstream systems that we should be aware of?
+thanks!";HCM
+"ADDITIONAL COMMENTS - Please amend the list with CHE-Plan A Conulting GmbH
+Thank you";HCM
+"ADDITIONAL COMMENTS - Hi all, 
+
+with reference to ticket RITM8238460 we’d like to ask if you could design a validation (hard stop with an error note) that would prevent workers from adding/changing their work phone details. Below you'll find all necessary information.
+
+Thanks in advance and best regards
+Alina
+
+1. What is the business case / justification for the changes being requested?
+a) We have an automatic webservice providing business phones numbers from our SAP directory into Workday directly , hence no need for manual updates by the worker and
+b) We’ve seen several cases in which employees used the work contact details to provide their private phone numbers as well which is against GDPR regulations.
+
+2. Is the change legally required? If so, you will need to provide legal documentation to support the legal requirement (e.g. email from local OGC, legislation etc.)
+
+> There should be no possibility for a worker to provide personal data which isn’t required by process or business need. (principal of data minimisation / GDPR)
+Legal requirement:
+“1 lit. c GDPR: ""Personal data must be appropriate and relevant to the purpose and limited to what is necessary for the purposes of processing (""data minimization""). Data economy and data minimization are therefore closely related to the earmarking of data.”
+
+3. What are the risks / impacts if changes aren't approved?
+
+> Holding false or unnecessary personal data within our leading HC system which is not in alignment with GDPR regulatories. 
+
+4. Do you need this validation to be implemented for both employees and contingent workers? Meaning, the validation saying it is not possible to add/change work phone would appear for both worker types.
+
+> The validation should be implemented for employees and contingent workers.
+
+5. Do you wish to implement a validation for 'Primary Work Phone' and 'Additional Work Phone' or only for one of the fields?
+
+> We’d like to have the validation for both fields ('Primary Work Phone' and 'Additional Work Phone').";HCM
+ADDITIONAL COMMENTS - The coachees listed under Kushan Liyanaarachchi (815019d6-799a-4a2d-9da3-8ae9d7313255) does not show Kushan Liyanaarachchi as their Matrix Manager.  Please refer attached.  However when extracting the members listed under FJI Career Coach (Kushan Liyana Arachchilage) it shows 7 members listed as attached.  Please assist on how to correct this.;HCM
+"ADDITIONAL COMMENTS - Hi Team,
+
+Could you indicate if there is a way to correct an error made into the ""Given Name "" when the worker is already hired?
+On this user  101219848, it seems there are multiple name with "","" is there a way for us or a security role to correct this kind of error?
+
+This worker name is just : Camille ORTIZ
+Screenshot attached
+
+I've tried to do it by cancel the task (SBX) or reassign it (pwc14), it didn't work
+
+This may cause error into work email address
+
+Thank you in advance
+Doris";HCM
+ADDITIONAL COMMENTS - Add new cost center >> completed upload in ORD;HCM
+"ADDITIONAL COMMENTS - Hi Team,
+
+Hope you are well. 
+
+We would like to add around 200 active contractors to WD, without triggering the IT process (email, GUID and laptop issuance). Those contractors are active and joined PWC either recently or less than a year ago. 
+Please note that the number is increasing, we are receiving such cases on a weekly basis and we need to start accounting for them in WD.
+
+Could you please advise what is the best process considering we do not want IT things to be triggered?
+
+Thanks
+Gabi";HCM
+ADDITIONAL COMMENTS - Add new cost center >> completed upload in ORD;HCM
+Whenever I get a call it is at the emergency contact number I had given. IT team said the directory is showing the number. But I have updated my mobile number in Workday which is 9830164496. Can you check and confirm this is updated to avoid calls going elsewhere;HCM
+ADDITIONAL COMMENTS - ITSCo Locations;HCM
+"ADDITIONAL COMMENTS - Dear all hi,
+
+We are facing an issue with a job ad in our career site. 
+At Workday the text looks great (job req: 315501WD ) but in our career site it has some typos. 
+
+Below you will find the respective link: 
+https://www.pwc.com/gr/en/careers/experienced-job-search/description.html?wdjobreqid=315501WD&wdcountry=GRC&jobtitle=Senior%20Data%20Warehouse%20Engineer&wdjobsite=Global_Experienced_Careers
+
+Could you please advise?
+
+Thank you,
+Valia";HCM
+"ADDITIONAL COMMENTS - Hi Team,
+
+Hope you are well. We would like to implement the Notice Period step in the Hire process. We would like it to be set up in the same way as 'Manage Probation Period' step. It means that the value (Notice Period) should be default wherever it is possible (ME has 12 countries and some countries have the rules for notice period, but some of them don't and the value can be different for every employee) but it should not be automatic complete. It should work in the same way as 'Manage Probation Period"" step meaning it should go to Recruiters, they can fill it in and submit.
+
+Is it something you can help with please?
+
+Thanks
+Gabi";HCM
+"ADDITIONAL COMMENTS - Hi,
+
+As fiscal year comes to an end, I performed the Mass Advance of the Goals in order to archive them.
+Now, we would like to cancel the remaining ""In Progress"" Goals that were not processed in the Mass Advance. Could you please upload this EIB to Sandbox (from Monday 13th) ?
+
+Many thanks for your help. 
+Kind Regards, 
+Athéna";HCM
+"ADDITIONAL COMMENTS - Hi Team - 
+
+Please update the address location of our Islamabad Office.
+
+74-East, 2nd Floor, Blue Area, Jinnah Avenue, Road Islamabad";HCM
+"ADDITIONAL COMMENTS - Hi
+
+We created a new sup. org. today, but are not able to move workers to it. The sup. org seems to be activated, as we can find it in Workday. It was created in org. studio. Please view screenshot. Basically, we need to remove employee Jette Leth Johanson from her current manager to this new organisation/manager. We are using Move Worker. 
+
+Thank you. 
+
+Best regards
+Victoria";HCM
+"ADDITIONAL COMMENTS - Hi team, 
+
+Here's two EIB documents as attachment. Please upload it to Sandbox and if it's okay for us then move to Production.
+
+Thanks,
+Elaine";HCM
+"ADDITIONAL COMMENTS - Hi
+Which report can i use to identifier the cost center hierarchy active (level 1,2,3,4,5) with some cost center inactive.
+France want to inactive the CCH if there is no cost center active.
+Thanks";HCM
+"ADDITIONAL COMMENTS - Hi all, 
+I need to load this EIB to Sandbox, please. 
+Best regards,
+Antonio";HCM
+"ADDITIONAL COMMENTS - Hi all, 
+I need to load this EIB to Sandbox, please. 
+Best regards,
+Antonio";HCM
+"ADDITIONAL COMMENTS - PwC Canada
+
+I have attached 3 EIBs to be run in order.
+
+1. Reactivate Org EIB
+2. Add Update Org EIB, which contains renames only
+3. Put Org ref ID EIB.
+
+We have validate the ORD for these changes
+Also, please note that Canada currently does not conform to the Ref ID process, Canada is not onboard to this part of ORD and this is known.";HCM
+"ADDITIONAL COMMENTS - Hi team, 
+
+Here's two EIB documents as attachment. Please upload it to Sandbox and if it's okay for us then move to Production.
+
+Thanks,
+Elaine";HCM
+"ADDITIONAL COMMENTS - Hi Team,
+
+Please can we have the attached EIB loaded to inactivate a cost center.
+
+Thank you";HCM
+"ADDITIONAL COMMENTS - hello team,
+for our territory Italy we need to add a new Supplier in the list of the available suppliers for CWs, as follows:
+ITA-MANPOWER
+
+thank you and best regards
+Irene";HCM
+"ADDITIONAL COMMENTS - PwC Canada
+
+Attached is an EIB to update hierarchy values.  That is level 5 values are being reassigned to a new level 4 value.
+These changes have been validated in ORD.";HCM
+"ADDITIONAL COMMENTS - Hi
+Which report can i use to identifier the cost center hierarchy active (level 1,2,3,4,5) with some cost center inactive.
+France want to inactive the CCH if there is no cost center active.
+Thanks";HCM
+"ADDITIONAL COMMENTS - Hi Team,
+ 
+I have raised this ticket to send the files for the Cost Centre Hierarchy movements for this month.I'll come back shortly with the attachments.
+ 
+In case you encounter any issues, please let me know.
+ 
+Kind regards,
+ 
+Alexandra";HCM
+"ADDITIONAL COMMENTS - Can you please chagen the Location Scheduled Weekly Hours for the following locations?
+
+Effective Date: 1 July 2022
+Change from: 37.5
+Change to: 35
+
+20007981	Grand Front Osaka Tower A (Tax)
+12514149	JR Central Towers (Tax)
+20007982	JRJP Hakata Building (Tax)
+20007980	Otemachi One Tower (Tax)
+20007979	Otemachi Park Building (Tax)
+
+Thank you,
+Hitomi";HCM
+"ADDITIONAL COMMENTS - Hi Team,
+
+Just letting you know there's been a delay in regards to getting the AU Firm Structure changes we are waiting on Finance to finalise and update in ORD.
+
+However, we will have files to validate in pwc14 soon.
+
+Kind regards,
+Anh";HCM
+"ADDITIONAL COMMENTS - Hello,
+due to Cost center changes as of July first (our new FY) we need to change our cost centers. Please load the attached files.  Thanks
+Regards Diana";HCM
+"ADDITIONAL COMMENTS - Hi Team, 
+
+Hope all is well. 
+
+Australia is currently not listed as a Country/or Territory on any of the active Job profiles Pay Rate Type. We are currently manually populating the pay rate type when candidates reach the Hire BP. To my understanding, pay rate type should be auto-populating from Job profile if defined for country. 
+
+Can you please confirm how Australia can be added to all the Job Profiles Pay Rate Type?
+
+Thanks.
+Mariana";HCM
+"ADDITIONAL COMMENTS - Hi team,
+Do you have a simple guide you can send me regarding mass advance of development plans and also archiving of goals? Another question is that we plan to archive goals in the middle of August. But can we still do the mass advance of development plans start July? Do you see any obstacles in this timeline?
+Best regards
+Chelina";Talent
+"ADDITIONAL COMMENTS - Hello - The L&D team (Ian Zhang) is going to be conducting another round of UAT for the badging programme next week. They have requested that we confirm the details for the badges (same as last time) set up in the testing environment - pwc14 so they can test the Workday sharing of badges. 
+
+Please verify the Workday ID for each badge to see if the same values remain. Due to the pwc14 refresh this weekend, there may be 2 certifications that need to be reconfigured in pwc14 (as it appears they do not currently exist in prod). I have highlighted those in yellow. This request can wait until next week to avoid any issues with the pwc14 refresh this weekend. 
+
+Please reach out to me directly with any questions!";Talent
+"ADDITIONAL COMMENTS - Dear all hi,
+
+I need your help on the below issue.
+
+Our L&D team want to approve the certifications inserted on Workday but as for now, this is possible on for HC Ops.
+Is there any chance that it exists or will exist a separate role on Workday for certifications approvals?
+
+Thank you in advance,
+Valia";Talent
+"ADDITIONAL COMMENTS - Hi team,
+
+I try to prepare the demo data in PwC15, and launch performance review for the sup org: CNHK Advisory - Demo (Amy Deng ?????), but after I release the calibrate task to manager, the manager - Amy Deng did not receive the task, can you pls. help to check why? And the dashboard - Team Leader Performance Dashboard (Performance Impact Tier (In Progress) also did not update.";Talent
+"ADDITIONAL COMMENTS - Good morning
+I'm preparing a statistic for the feedback process and include the time spent with rescinding a feedback. Could you please send me an estimation how long it takes for you to rescind a feedback (incl. receiving the request, setting everything up in Sandbox, doing the same in Production, closing the ticket plus possible other steps that I'm not aware of. )
+Thank you very much, Silvia";Talent
+"ADDITIONAL COMMENTS - Hello,
+We are in the middle of the Performance Review and have a new error. A Career Coach is trying to submit the Manager Evaluation of his Coachee who left PwC in the meantime. We did not cancel the Review for this employee because they can receive an impact tier/ bonus. But the Coach can not submit the Evaluation, see attached prinstcreen with the  error. We are also testing and trying to submit but we are also stuck. It seems an issue in the Goals but the Goals were not changed or edited. Please help.
+
+Coach Robert Spruijt 100655964
+Coachee Marlous Albers 100679970";Talent
+"ADDITIONAL COMMENTS - Hi Team,
+
+We launch the performance review for our territorry but we didn't select the performance calibration as the calibration program.
+
+I tried to cancel the process to redoo it and select the calibration program but couldn't.
+
+Could you help us fix it please.
+
+Thank you for your help.
+
+Best regards.
+
+Kani";Talent
+"Hi Team,
+
+Could you indicate if there is a way to update a mass operation management that is already scheduled for this Monday 13June?
+We have scheduled the step 3 on our performance evaluations and we would like to know if there is a way to postpone it on Monday 20 June?
+We have scheduled 5 mass operation management request on this date, from those following top org :
+
+FRA - Paris - Top Organisation IFS (Patrice MOROT)
+FRA-Paris-Assurance - Leadership Team (Emmanuel BENOIST)
+FRA-Paris-Consulting Leadership Team (Christophe DESGRANGES)
+FRA-Paris - TOP TLS (Loic LE CLAIRE)
+FRA-Paris-Deals Leadership Team Transactions (Stéphane SALUSTRO)
+
+Thank you in advance
+Doris";Talent
+ADDITIONAL COMMENTS - HI, The team would like to seek help for a mass cancellation request for 331 employees who should not participate in the on-going Annual performance review (cancel Self-Review).  Can you please share the appropriate EiB and/or guidance on how to do this?  Thank you;Talent
+ADDITIONAL COMMENTS - Hi! Can you please add 3 new certifications in the catalog?;Talent
+"ADDITIONAL COMMENTS - Hi HCM Team
+
+I hope you are keeping well.
+
+Please can you kindly assist in add the below certifications to the drop down list ( refer to screenshot attached)
+
+
+Certification Name: Certified Facility Manager® (CFM®)
+Issuer: International Facility Management Association
+Territory Nigeria
+
+
+Certification Name: Facility Management Professional (FMP®)
+Issuer: International Facility Management Association
+Territory Nigeria
+
+Please also help add this course ""Masters in Facilities Management (MFM)"" under the ""Field of Study"",  Education.
+
+Thank you
+
+Regards";Talent
+"ADDITIONAL COMMENTS - Good day,
+We would like to include 3 staff members into the Calibration. How do I need to proceed?
+It concerns Charlotte Mas (101099688), Hassiba Ait Dani (101101962) and Jérémy Chiffele (101107060).
+Do I start the Annual Performance Review, then manually advance the self-evaluation, then manually advance the manager evaluation and then you have the possibility to include them in the Calibration flag? Or what would be the procedure. 
+In the QRC 27 (page 5) that there is the possibility to use the manage calibration possibility. Unfortunately, I do not understand if this is the task to do. If it's the correct one, I kindly ask you to send me instructions as there is no result when I look for this task in Workday. 
+Thank you very much for your reply and best regards, Silvia";Talent
